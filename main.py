@@ -39,3 +39,6 @@ for file_name in os.listdir(desktop_path):
     # Move files that don't match any category to 'Others'
     if not moved:
         shutil.move(file_path, os.path.join(desktop_path, "Others", file_name))
+
+# Step 5: Print success message
+print("Desktop organized successfully!")
