@@ -1,6 +1,6 @@
 # Desktop Cleaner
 
-Two Python script to organize your desktop files into categorized folders and to return the organized categories back to default state.
+Two Python scripts - One to organize your desktop files into categorized folders and the other to return the organized categories back to default state.
 
 ## Features
 - Automatically moves files into folders based on their types (main.py).
